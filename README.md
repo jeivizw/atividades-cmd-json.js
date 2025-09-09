@@ -1,0 +1,1 @@
+# atividades-cmd-json.js
